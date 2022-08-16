@@ -1,0 +1,44 @@
+_repo: The-lively-adventures-of-Gavin-Hamilton_68630
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Edwards, H. C. (Harry C.)
+    alias: Edwards, Harry C.
+    birthdate: 1868
+    deathdate: 1922
+    gutenberg_agent_id: '34137'
+    url: http://www.gutenberg.org/2009/agents/34137
+creator:
+  author:
+    agent_name: Seawell, Molly Elliot
+    aliases:
+    - Seawell, Molly Elliott
+    - Seawell, M. Elliot (Molly Elliot)
+    birthdate: 1860
+    deathdate: 1916
+    gutenberg_agent_id: '7754'
+    url: http://www.gutenberg.org/2009/agents/7754
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Molly_Elliot_Seawell
+    - http://www.gutenberg.org/ebooks/author/43099
+description: ''
+gutenberg_issued: '2022-07-28'
+identifiers:
+  gutenberg: '68630'
+language: en
+pgterms:marc904: https://archive.org/details/livelyadventures00seawrich/mode/2up
+pgterms:marc905: 20200429122001seawell
+pgterms:marc906: '1899'
+pgterms:marc907: US
+production_note: D A Alexander, Newberry Library, Chicago, Illinois, for a scan of
+  the publisher's cover and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by University of California
+  libraries)
+publication_note: United States :Harper and Brothers Publishers,1899,pubdate 1900.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The lively adventures of Gavin Hamilton
+url: http://www.gutenberg.org/ebooks/68630
